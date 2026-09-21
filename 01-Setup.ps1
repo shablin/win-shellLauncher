@@ -13,7 +13,7 @@ Write-Host
 
 $features = @(
     'Client-DeviceLockdown',
-    'Client-EmbeddedShellLauncher',
+    'Client-EmbeddedShellLauncher'
 )
 
 foreach ($feature in $features) {
